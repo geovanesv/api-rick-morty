@@ -4,7 +4,11 @@
 
 <p align="center">
   Aplicação de consulta, visualização e cadastro de personagens favoritos do seriado Rick & Morty.
+  <br>
+  Confira ao vivo: https://geovane-rick-morty.netlify.app/
 </p>
+
+
 
 <br>
 
