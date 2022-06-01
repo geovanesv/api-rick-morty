@@ -8,11 +8,6 @@
 
 <br>
 
-[//]: # (Add your gifs/images here:)
-<p align="center">
-  <img src="/src/assets/gifs/rick-morty.gif" width="620">
-</p>
-
 
 ## API
 Na aplicação foi utilizada a API pública https://rickandmortyapi.com/documentation/#introduction para o consumo das requisições dos personagens
